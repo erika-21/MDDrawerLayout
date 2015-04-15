@@ -1,0 +1,11 @@
+<resources>
+    <declare-styleable name="CameraView">
+        <attr name="zoomEnabled" format="boolean" />
+        <attr name="cameraPosition" format="enum">
+            <enum name="back" value="0" />
+            <enum name="front" value="1" />
+        </attr>
+        <attr name="autoFocus" format="boolean" />
+        <attr name="enableShutter" format="boolean" />
+    </declare-styleable>
+</resources>

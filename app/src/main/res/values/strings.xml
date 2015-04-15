@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DLMasterDetail</string>
+    <string name="title_exifmeta_list">MetaValues</string>
+    <string name="title_exifmeta_detail">ExifMeta Detail</string>
+</resources>
